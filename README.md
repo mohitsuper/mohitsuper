@@ -1,5 +1,7 @@
 ![blob](https://github.com/mohitsuper/mohitsuper/assets/124493371/a0854bba-60a7-4194-b665-fd6b557aa0b2)
 [README.md](https://github.com/mohitsuper/mohitsuper/files/11600030/README.md)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 [Uploading mohit README.md…]()
 - 👋 Hi, I’m @mohitsuper
 - 👀 I’m interested in ...
