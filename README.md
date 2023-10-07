@@ -1,9 +1,8 @@
-![mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=mohita&hide=contribs,prs)
 [Uploading mohit README.md…]()
 - 👋 Hi, I’m @mohitsuper
 - 👀 I’m interested in ...
